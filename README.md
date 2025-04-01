@@ -6,4 +6,4 @@ This is my machine learning journey . I thought it to share with everyone .
 ## In Day 4 : Polynomial Regression . ##
 ## In Day 5 : Logistic Regression . ##
 ## In Day 6 : Naive Bayes Algorithm for Classification . ##
-## In Day 7 : KNN algorithm . ##
+## In Day 7 : KNN algorithm and SVM Linear ##
